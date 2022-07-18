@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/https//hrm209.github.io/myprofile/static/css/main.d48b9a55.css",
-    "main.js": "/https//hrm209.github.io/myprofile/static/js/main.5baca964.js",
-    "static/js/27.34e60b1b.chunk.js": "/https//hrm209.github.io/myprofile/static/js/27.34e60b1b.chunk.js",
-    "index.html": "/https//hrm209.github.io/myprofile/index.html"
+    "main.css": "/myprofile/static/css/main.d48b9a55.css",
+    "main.js": "/myprofile/static/js/main.f9ba0611.js",
+    "static/js/27.34e60b1b.chunk.js": "/myprofile/static/js/27.34e60b1b.chunk.js",
+    "index.html": "/myprofile/index.html"
   },
   "entrypoints": [
     "static/css/main.d48b9a55.css",
-    "static/js/main.5baca964.js"
+    "static/js/main.f9ba0611.js"
   ]
 }
